@@ -11,6 +11,12 @@
 <div align="center">
 
 You have finally discovered my Github profile. <br>
+- 🔭 I’m currently studying at Hemwati Nandan Bahuguna Gharwal University Uttrakhand
+- 🌱 I’m currently Preparing for Gate 2021
+- 💬 Ask me about Anything related to motivation
+- 📫 How to reach me: by my mail or insta or fb
+- ⚡ Fun fact: I love My health and fitness... ;)
+
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/meghasharma123/MeghaSharma/issues/new"><b>here</b></a><br>
 or <a href="mailto:meghasharma2822000@gmail.com"><b>email</b></a> me
@@ -40,9 +46,3 @@ or <a href="mailto:meghasharma2822000@gmail.com"><b>email</b></a> me
 
 </div>
 
-
-- 🔭 I’m currently studying at Hemwati Nandan Bahuguna Gharwal University Uttrakhand
-- 🌱 I’m currently Preparing for Gate 2021
-- 💬 Ask me about Anything related to motivation
-- 📫 How to reach me: by my mail or insta or fb
-- ⚡ Fun fact: I love My health and fitness... ;)
