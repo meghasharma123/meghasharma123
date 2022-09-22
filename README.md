@@ -11,8 +11,9 @@
 <div align="center">
 
 You have finally discovered my Github profile. <br>
-- 🔭 I’m currently studying at Hemvati Nandan Bahuguna Gharwal University Uttrakhand
-- 🌱 I’m currently Preparing for Gate 2021
+- 🔭 I’m currently working as SDE @readyly.
+- 🌱 I completed my Btech from Hemvati Nandan Bahuguna Gharwal University Uttrakhand, Central University.
+- 🤩 GATE-2022 Qualified.
 - 💬 Ask me about Anything related to motivation
 - 📫 How to reach me: by my mail or insta or fb
 - ⚡ Fun fact: I love My health and fitness... ;)
