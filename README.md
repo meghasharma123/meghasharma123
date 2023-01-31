@@ -11,7 +11,7 @@
 <div align="center">
 
 You have finally discovered my Github profile. <br>
-- 🔭 I’m currently working as SDE @readyly.
+- 🔭 I’m currently working as SDE @Spacewalk Automation.
 - 🌱 I completed my Btech from Hemvati Nandan Bahuguna Gharwal University Uttrakhand, Central University.
 - 🤩 GATE-2022 Qualified.
 - 💬 Ask me about Anything related to motivation
