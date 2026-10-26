@@ -16,7 +16,6 @@ You have finally discovered my Github profile. <br>
 - 🤩 GATE-2022 Qualified.
 - 💬 Ask me about Anything related to motivation
 - 📫 How to reach me: by my mail or insta or fb
-- ⚡ Fun fact: I love My health and fitness... ;)
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
 Ask me anything <a href="https://github.com/meghasharma123/MeghaSharma/issues/new"><b>here</b></a><br>
@@ -41,7 +40,7 @@ or <a href="mailto:meghasharma2822000@gmail.com"><b>email</b></a> me
 <i>Follow me around the web:</i><br>
 
 <a href="https://www.linkedin.com/in/megha-sharma1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/megha_5_sharma" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
+<a href="https://www.instagram.com/i.megha.sharma" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
 <a href="https://www.facebook.com/profile.php?id=100028083151194" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://dev.to/meghasharma123" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
 
